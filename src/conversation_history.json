@@ -1,0 +1,26 @@
+[
+    {
+        "query": "parle moi de donald trump",
+        "response": "Désolé, je ne suis pas en mesure de répondre à votre question sur Donald Trump car les informations que j'ai à ma disposition concernent les protections d'écran et les téléphones. Comment puis-je vous aider avec des informations liées à ces sujets ?"
+    },
+    {
+        "query": "Tell me about the OnePlus 6T",
+        "response": "Le OnePlus 6T est un smartphone doté d'une grande capacité de batterie de 3700 mAh, d'une technologie de charge rapide, d'un capteur d'empreinte digitale intégré à l'écran, d'un écran Optic AMOLED de 6,41 pouces avec un ratio écran-corps de 86%, d'une méthode de déverrouillage d'écran rapide et innovante, d'un processeur Qualcomm Snapdragon 845, d'une RAM allant jusqu'à 8 Go, d'un système d'exploitation Android Pie et d'une interface OxygenOS rapide et fluide. Il est équipé d'une caméra performante avec stabilisation d'image optique, fonction Nightscape et Studio Lighting pour des photos de qualité."
+    },
+    {
+        "query": "parle moi de donald trump",
+        "response": "Désolé, je ne dispose pas d'informations sur Donald Trump pour répondre à votre question."
+    },
+    {
+        "query": "parle moi de l'iphone 12 pro max",
+        "response": "L'iPhone 12 Pro Max est équipé d'une coque Solomo qui offre une protection supérieure grâce à ses coins à airbags intégrés et ses bords surélevés. La coque est dotée d'un design unique et élégant avec des fonctionnalités telles qu'un bouton latéral sensible et facile à presser. De plus, la coque présente un design étincelant et graduel qui assure un ajustement parfait et permet d'accéder à toutes les fonctionnalités de l'iPhone sans avoir à la retirer."
+    },
+    {
+        "query": "parle moi de donald trump",
+        "response": "Je suis désolé, mais je ne dispose pas d'informations actualisées sur Donald Trump."
+    },
+    {
+        "query": "iphone 13 pro max",
+        "response": "Ce boîtier est compatible avec l'iPhone 13 Pro Max. Il est neuf, avec un design mignon et à la mode, fabriqué avec des matériaux de haute qualité inoffensifs pour la santé. Il offre une forte adhérence pour minimiser les risques de glissement."
+    }
+]
